@@ -31,7 +31,7 @@
     "gatsby-source-filesystem": "^2.3.8",
     "gatsby-transformer-sharp": "^2.5.3",
     "lodash": "^4.17.21",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "qs": "^6.9.6",
     "query-string": "^6.13.1",
